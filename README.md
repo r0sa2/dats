@@ -1,7 +1,7 @@
 # DATS Projects
 This repository is a collection of coursework projects worked on towards the Master of Science in Engineering (MSE) in Data Science program at the University of Pennsylvania.
 
-## Dirctory Structure
+## Directory Structure
 - `CIS5200`: Machine Learning (Fall 2022) project directory
     - `notebook.ipynb`: Complete project code
     - `report.pdf`: Project report
