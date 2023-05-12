@@ -1,4 +1,8 @@
-# CIS5220: Deep Learning for Data Science  (Spring 2023)
+# Medical Concept Extraction and Relationship Classification from Patient Records
+This project is for the course `CIS5220: Deep Learning for Data Science (Spring 
+2023)`. The project repository can be found 
+[here](https://github.com/Meet1995/biomedical-ner-relationship-classification).
+
 ## Abstract
 In this project we compare the performance of deep learning models, 
 specifically transformers and Long Short-Term Memory (LSTM) networks, against 
@@ -15,4 +19,7 @@ optimization techniques. The findings contribute to a broader understanding of
 artificial intelligence applications in healthcare, emphasizing the potential 
 and challenges of AI-driven decision-making in medical settings.
 
-The project repository can be found [here](https://github.com/Meet1995/biomedical-ner-relationship-classification).
+## Contributors
+- Meet Gandhi
+- Rohan Saraogi
+- Tarun Raheja
