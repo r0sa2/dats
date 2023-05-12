@@ -1,6 +1,6 @@
 # Medical Concept Extraction and Relationship Classification from Patient Records
-This project is for the course `CIS5220: Deep Learning for Data Science (Spring 
-2023)`. The project repository can be found 
+This project is for the course `CIS5220: Deep Learning for Data Science (Spring 2023)`. 
+The project repository can be found 
 [here](https://github.com/Meet1995/biomedical-ner-relationship-classification).
 
 ## Abstract
