@@ -1,6 +1,6 @@
 # CIS5220: Deep Learning for Data Science  (Spring 2023)
 ## Abstract
-In this project, we compare the performance of deep learning models, 
+In this project we compare the performance of deep learning models, 
 specifically transformers and Long Short-Term Memory (LSTM) networks, against 
 traditional machine learning baselines in a healthcare context. Our 
 investigation explores the impact of data augmentation and importance weight 
