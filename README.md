@@ -10,5 +10,5 @@ This repository is a collection of coursework projects worked on towards the Mas
     - `report.pdf`: Project report
 - `CIS5450`: Big Data Analytics (Spring 2023)
     - `notebook.ipynb`: Complete project code
-- `CIS5500': Database and Information Systems (Spring 2023)
+- `CIS5500`: Database and Information Systems (Spring 2023)
     - `report.pdf`: Project report
