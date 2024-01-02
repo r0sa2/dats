@@ -1,4 +1,4 @@
-# Live Poets Society
+# Augmented Reality Sudoku Solver
 This project is for the course *CIS 5810: Computer Vision & Computational Photography (Fall 2023)*.
 
 ## Abstract
