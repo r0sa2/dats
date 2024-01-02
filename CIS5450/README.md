@@ -1,5 +1,5 @@
 # Global Temperature Forecasting & Investigation
-This project is for the course *CIS5450: Big Data Analytics (Spring 2023)*. 
+This project is for the course *CIS 5450: Big Data Analytics (Spring 2023)*. 
 
 ## Abstract
 Accurate temperature forcasting and tracking of climate change and global 

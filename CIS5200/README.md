@@ -1,5 +1,5 @@
 # Spoiler Classification in Book Reviews
-This project is for the course *CIS5200: Machine Learning (Fall 2022)*.
+This project is for the course *CIS 5200: Machine Learning (Fall 2022)*.
 
 ## Abstract
 Book spoilers on review websites can detract from a user's experience consuming 
