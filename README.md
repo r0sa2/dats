@@ -13,3 +13,7 @@ This repository is a collection of coursework projects worked on towards the Mas
     - `notebook.ipynb`: Complete project code
 - `CIS5500/`: Database and Information Systems (Spring 2023) project directory
     - `report.pdf`: Project report
+- `CIS5810/`: Computer Vision & Computational Photography (Fall 2023) project directory
+    - `presentation_and_demo.mp4`: Project presentation and demo
+    - `report.pdf`: Project report
+    - `slides.pdf`: Project presentation slides
